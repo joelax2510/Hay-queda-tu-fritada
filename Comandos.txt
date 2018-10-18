@@ -1,0 +1,15 @@
+git config --list 						(muestra la configuracion del git)
+Crear Usuario de git:
+* git config --global user.name "name user"			(usuario git)
+* git config --global user.email "correo electronico"		(correo electronico)
+pwd								(visualiza la ubicacion)
+cd								(change directory)
+ls								(lista archivo y carpetas)
+git init							(inicializa git)
+git add								(adiciona un archivo al staring area)
+git status							(estado del archivo git)
+clear								(limpiar pantalla)
+git commit -m							(pone a disposicion de repositorio)
+git remote add origin https://github.com/username/repositorio.git
+git push -u origin master
+

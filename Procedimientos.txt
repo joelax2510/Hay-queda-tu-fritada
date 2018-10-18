@@ -1,0 +1,20 @@
+1. Crear una cuenta en github.com
+2. Registrarse y pomer el nombre de usuario y correo electronico
+3. Crear carpeta "Proyecto" en el escritorio
+4. Mostrar la configuracion del git
+5. Configurar cuenta de usuario
+6. Añadir el nombre de usuario
+7. Añadir el correo electronico
+8. Visualizamos nuestra ubicacion
+9. Cambiamos de directorio "desktop"
+10. Cambiamos a carpeta proyecto
+11. Inicializar el git
+12. Creamos tres documentos de textos:
+	hola
+	adios
+	programacion
+13. Añadir los archivos al staring area
+14. Poner a los archivos a disposicion del repositorio
+15. Insertar los comandos visualizados en la pagina github
+16. Verificar nombre de usurio y contraseña
+17. Verificar que sus archivos esten subidos 
